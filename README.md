@@ -1,0 +1,1 @@
+HERE We'll see implemented doc for the usage of the code above with detail theory and understandings
